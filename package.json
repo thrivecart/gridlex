@@ -28,8 +28,8 @@
     "docs": "cp -R dist/*.* docs"
   },
   "devDependencies": {
-    "cssnano": "^3.10.0",
-    "postcss-cli": "^4.1.0",
+    "cssnano": "^8.0.5",
+    "postcss-cli": "^11.0.1",
     "sass": "^1.50.1"
   }
 }
